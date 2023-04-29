@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Airbnb clone](https://github.com/Flesier/AirBnB_clone)
 
-- 🌱 I’m currently learning **Alx Holberton course**
+- 🌱 I’m currently learning **Devops and Backend engineering**
 
-- 💬 Ask me about **Python,Js,C**
+- 💬 Ask me about **Python,Javascript**
 
 - 📫 How to reach me **flesieronyango18@gmail.com**
 
